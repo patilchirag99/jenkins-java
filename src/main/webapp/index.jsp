@@ -9,5 +9,6 @@
 <body>
 	<h1>This is homepage</h1>
 	<a href="about.jsp">About page</a>
+	<a href="services.jsp">services page</a>
 </body>
 </html>
